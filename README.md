@@ -2,7 +2,8 @@
 
 A powerful Python tool designed to help penetration testers and security professionals maintain active web sessions during testing. This tool allows users to send automated web requests at specified intervals, read request details from a file, and optionally use a proxy to route the requests. 
 
-Created by **Sedric "Show Up Show Out" Louissaint**, this tool simplifies the process of keeping sessions active while performing security audits and penetration testing on web applications.
+
+This tool simplifies the process of keeping sessions active while performing security audits and penetration testing on web applications.
 
 ## Features
 - **Automated Web Requests**: Send HTTP/HTTPS requests at a specified interval to maintain active sessions.

@@ -104,19 +104,3 @@ Feel free to open issues for bug reports, feature requests, or general feedback.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Credits
-Created by **Sedric "Show Up Show Out" Louissaint**. Special thanks to everyone contributing to the security community and making web applications more secure through proper testing and automation.
-
-### SEO Keywords (To improve visibility)
-- Web Session Keep-Alive
-- Python Web Automation
-- Web Penetration Testing Tool
-- Automated HTTP Requests
-- Session Management Tool
-- Web Security Testing
-- Proxy Routing for Web Requests
-- Web Application Security Tools
-- HTTP/HTTPS Request Automation
-- Session Timeout Prevention
-- Python Network Tools for Security
